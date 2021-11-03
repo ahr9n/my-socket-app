@@ -1,4 +1,4 @@
-# MySocketApp
+# My Socket App.
 
 ## Socket Programming - Life Cycle:
 
